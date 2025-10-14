@@ -7,5 +7,5 @@
 ![JS](https://img.shields.io/badge/-JavaScript-1f2937?style=for-the-badge&logo=javascript)
 ![TS](https://img.shields.io/badge/-TypeScript-1f2937?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/-React-1f2937?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-1f2937?style=for-the-badge&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-1f2937?style=for-the-badge&logo=angular&logoColor=red)
 ![SQL](https://img.shields.io/badge/-SQL-1f2937?style=for-the-badge&logo=PostgreSQL)
